@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView
+        android:id="@+id/cvMain"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools" app:contentPadding="4dp"
+        app:cardCornerRadius="8dp"
+        app:cardUseCompatPadding="true"
+        android:padding="8dp"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+    <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="ContentDescription">
+
+        <ImageView
+                android:id="@+id/iconOs"
+                android:src="@mipmap/ic_launcher"
+                android:layout_weight="2"
+                android:layout_width="0dp"
+                android:layout_height="80dp" />
+
+        <LinearLayout
+                android:orientation="vertical"
+                android:padding="8dp"
+                android:layout_weight="8"
+                android:layout_width="0dp"
+                tools:ignore="NestedWeights"
+                android:layout_height="80dp">
+
+            <TextView
+                    android:id="@+id/nameVersion"
+                    android:textSize="16sp"
+                    android:layout_height="0dp"
+                    android:layout_weight="1.5"
+                    style="@style/textStyle"/>
+
+            <TextView
+                    android:id="@+id/numberVersion"
+                    android:textSize="12sp"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    style="@style/textStyle"/>
+
+            <TextView
+                    android:id="@+id/releaseDate"
+                    android:text="@string/release_date"
+                    android:textSize="12sp"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    style="@style/textStyle"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+</com.google.android.material.card.MaterialCardView>

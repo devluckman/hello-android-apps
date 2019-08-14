@@ -1,0 +1,14 @@
+package com.man.hello_android.view.about
+
+import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
+import com.man.hello_android.R
+
+class AboutActivity : AppCompatActivity() {
+
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        setContentView(R.layout.activity_about)
+
+    }
+}

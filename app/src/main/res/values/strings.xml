@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Hello Android</string>
+    <string name="pie">Pie</string>
+    <string name="release_date">Release Date :\u0020</string>
+    <string name="number_version">Version :\u0020</string>
+    <string name="name_code">Name Code :\u0020</string>
+    <string name="version_number">Version Number :\u0020</string>
+    <string name="api_level">API Level :\u0020</string>
+    <string name="description">Description :\u0020</string>
+    <string name="new_feature">New Feature :\u0020</string>
+    <string name="my_name">Lukmanul Hakim</string>
+    <string name="email">say.luckmann@gmail.com</string>
+    <string name="about_me">About Me</string>
+</resources>

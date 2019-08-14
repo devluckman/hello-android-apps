@@ -1,0 +1,95 @@
+{
+	"os_android" :[{
+		"name" : "Pie",
+		"version" : "9",
+		"release_date" : "August 6, 2018", 
+		"api_level" : "28",
+		"icon" : "pie.png",
+		"new_feature" : "Adaptive\nBattery|Adaptive\nBrightness",
+		"description" : "Inilah perkembangan Android sistem teranyar yang baru saja diresmikan pada Agustus 2018 lalu. Android Pie (versi 9.0) mengganti tiga tombol navigasi dengan tombol tunggal berbentuk elips. Versi Android terbaru dengan nama kue Pie ini membawa lompatan baru dalam sejarah sistem operasi handphone. Android Pie sudah didukung kemampuan kecerdasan buatan (AI). Berkat AI, Handphone Android jadi semakin pintar karena bisa mempelajari pola penggunaan secara otomatis. Android Pie bisa menyesuaikan konsumsi baterai dengan rutinitasmu sehari-hari."
+
+	},
+	{
+		"name" : "Oreo",
+		"version" : "8.0 - 8.1",
+		"release_date" : "October 25, 2017", 
+		"api_level" : "26 - 27",
+		"icon" : "oreo.png",
+		"new_feature" : "Picture in\nPicture",
+		"description" : "Android Oreo (versi 8.0) yang dirilis pada 2017 menambah lebih banyak fitur multi-tasking seperti Picture-in-Picture. Bagian notifikasi ikut dirombak. Pengguna bisa mengatur notifikasi mana saja yang akan ditampilkan dan apa yang dilakukan perangkat saat menyuguhkannya. Tampilan Android Oreo sangat berbeda dengan pendahulunya. Tampilan UI di versi Oreo kini lebih rapi dan segar. Tampilannya pun lebih difokuskan untuk memudahkan pengguna mengakses aplikasi dan mencari informasi yang dibutuhkan."
+
+	},
+	{
+		"name" : "Nougat",
+		"version" : "7.1 - 7.1.2",
+		"release_date" : "August 22, 2016", 
+		"api_level" : "24 - 25",
+		"icon" : "nougat.png",
+		"new_feature" : "Multi\nwindow|GIF\nKeyboard",
+		"description" : "Nougat (versi 7.0) keluaran 2016 adalah salah satu upgrade terbesar untuk sistem operasi Android. Sistem operasi Nougat adalah pengembangan dari Marshmallow. Versi Android ini membawa peningkatan performa dan antarmuka yang lebih intuitif. Selain itu, fitur Multi-Window yang masih dalam tahap uji coba sebelumnya kini sudah sempurna dan mendukung lebih banyak aplikasi. Dengan fitur ini, pengguna bisa pakai 2 aplikasi bersamaan, misalnya nonton YouTube sambil balas pesan WhatsApp."
+
+	},
+	{
+		"name" : "Marshmallow",
+		"version" : "6.0 - 6.0.1",
+		"release_date" : "October 5, 2015", 
+		"api_level" : "23",
+		"icon" : "marshmallow.png",
+		"new_feature" : "Now On\nTap|Permissions|Battery (Doze & App Standy)",
+		"description" : "Tiba di tahun 2015, Untuk menyudahi kekecawaaan pengguna Android terhadap Lollipop, Android kembali merilis sistem operasi baru yaitu Marshmallow. Sistem operasi ini membawa banyak fitur baru yang lebih canggih. Beberapa fitur baru yang ada di Marshmallow di antaranya adalah: Doze untuk menghemat baterai, dukungan sensor sidik jari untuk buka kunci layar, dukungan USB tipe C, dan fitur percobaan Multi-Window agar penggunanya bisa memakai 2 aplikasi berbeda dalam 1 layar."
+	},
+	{
+		"name" : "Lollipop",
+		"version" : "5.1 - 5.1.1",
+		"release_date" : "November 12, 2014", 
+		"api_level" : "21 -22",
+		"icon" : "lollipop.png",
+		"new_feature" : "Material\nDesign|Multiscreen|Notifications",
+		"description" : "Android Lollipop adalah versi stabil terbaru dengan versi antara 5.0 dan 5.1. Diresmikan pada 25 Juni 2014 saat Google I / O, dan tersedia secara resmi melalui over-the-air (OTA) update pada tanggal 12 November 2014, untuk memilih perangkat yang menjalankan distribusi Android dilayani oleh Google (seperti perangkat Nexus dan Google Play edition). Salah satu perubahan yang paling menonjol dalam rilis Lollipop adalah user interface yang didesain ulang dan dibangun dengan yang dalam bahasa desain disebut sebagai “material design”. Perubahan lain termasuk perbaikan pemberitahuan, yang dapat diakses dari lockscreen dan ditampilkan pada banner di bagian atas screen."
+	},
+	{
+		"name" : "Kitkat",
+		"version" : "4.4 - 4.4.4",
+		"release_date" : "October 31, 2013", 
+		"api_level" : "19 - 20",
+		"icon" : "kitkat.png",
+		"new_feature" : "Voice :\nOk Google|Immersive\nDesign|Smart\nDialer",
+		"description" : "Pada tanggal 3 september 2013. Meskipun pada awalnya di beri anma “Key Lime Pie” (“KLP”), nama itu berubah karena “sangat sedikit orang benar-benar tahu rasa key lime pie.” Sistem operasi Android KitKat membawa banyak peningkatan yang cukup signifikan. Pada versi ini, Google fokus meningkatkan user experience pengguna Android dengan meningkatkan performa sistem operasinya. KitKat memulai debutnya pada Google Nexus 5pada tanggal 31 Oktober 2013, dan dioptimalkan untuk berjalan pada rentang yang lebih besar dari perangkat dari versi Android sebelumnya, memiliki 512 MB RAM sebagai minimum yang disarankan."
+	},
+	{
+		"name" : "Jelly Bean",
+		"version" : "4.1 - 4.3.1",
+		"release_date" : "July 9, 2012", 
+		"api_level" : "18",
+		"icon" : "jellybean.png",
+		"new_feature" : "Google Now|Actionable\nNotifications|Account\nSwitching",
+		"description" : "Pada 2012 masih memiliki nomor versi “4”, tapi memiliki julukan baru, yakni Jelly bean (versi 4.1). Di sinilah Google mulai menerapkan teknologi asisten digital Google Now yang bisa diakses dengan sapuan jari dari home screen. (versi 4.2) Fitur photo sphere untuk panaroma, daydream sebagai screensaver, power control, lock screen widget, menjalankan banyak user (dalam tablet saja), widget terbaru.  (versi 4.3) Merupakan pembaharuan dari android jelly bean sebelumnya dimana rilis ada pada 24 Juli 2013 di San Francisco. Nexus 7 generasi 2 adalah Smartphone  pertama yang menggunakan OS tersebut."
+	},
+	{
+		"name" : "Ice Cream Sandwich",
+		"version" : "4.0 - 4.6",
+		"release_date" : "October 19, 2011", 
+		"api_level" : "15",
+		"icon" : "icecreams.png",
+		"new_feature" : "Custom Home\nScreen|Data Usage\nControl|Android\nBeam",
+		"description" : "Diumumkan pada tanggal 19 Oktober 2011, membawa fitur Honeycomb untuk smartphone dan menambahkan fitur baru termasuk membuka kunci dengan pengenalan wajah, jaringan data pemantauan penggunaan dan kontrol, terpadu kontak jaringan sosial, perangkat tambahan fotografi, mencari email secara offline, dan berbagi informasi dengan menggunakan NFC."
+	},
+	{
+		"name" : "Honey Comb",
+		"version" : "3.0 - 3.2.6",
+		"release_date" : "February 22, 2011", 
+		"api_level" : "11 - 13",
+		"icon" : "honeycomb.png",
+		"new_feature" : "Tablet-Friendly\nDesign|System\nBar|Quick\nSettings",
+		"description" : "Pertama kali diperkenalkan pada 22 Februari 2011 dan Motorola Xoom adalah yang pertama kali menggunakannya. Android versi ini merupakan OS yang didesain khusus untuk pengoptimalan pengunaan pada tablet PC. Honeycomb juga mendukung multi prosesor dan juga akselerasi perangkat keras (hardware) untuk grafis. Honeycomb mengusung beberapa perubahan dibanding OS Android untuk smartphone, seperti warna tema biru -bukan hijau- dan preview untuk widget."
+	},
+	{
+		"name" : "Gingerbeard",
+		"version" : "2.3 - 2.3.7",
+		"release_date" : "February 9, 2011", 
+		"api_level" : "9 - 10",
+		"icon" : "gingerbeard.png",
+		"new_feature" : "Gaming\nAPIs|NFC|Battery\nManagement",
+		"description" : "Pada 6 Desember 2010, Android versi 2.3 (Gingerbread) diluncurkan. Perubahan-perubahan umum yang didapat dari Android versi ini antara lain peningkatan kemampuan permainan (gaming), peningkatan fungsi copy paste, layar antar muka (User Interface) didesain ulang, dukungan format video VP8 dan WebM, efek audio baru (reverb, equalization, headphone virtualization, dan bass boost), dukungan kemampuan Near Field Communication (NFC), dan dukungan jumlah kamera yang lebih dari satu."
+	}]
+}
